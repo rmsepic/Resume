@@ -1,0 +1,78 @@
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% modern themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+%\definecolor{color1}{RGB}{0, 0, 0}
+%\definecolor{color2}{RGB}{0, 0, 50}
+\moderncvcolor{black}                                % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+
+\usepackage[scale=0.75, top=12mm, bottom=12mm]{geometry} % adjust the page margins
+\usepackage{enumitem} % For removing bullets from items, so that Kondad doesn't have to look at those stupid bullets
+\usepackage{fontawesome}
+\usepackage{verbatim} 	% For multiline comments
+\usepackage{textcomp}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%% MODIFICATIONS MADE TO THE MODERCV TEMPLATE %%%%%%%%%%%%%%%%%%
+\renewcommand*{\listitemsymbol}{\hspace{8pt}\labelitemi~}
+\renewcommand*{\makeheaddetailssymbol}{~~~}
+
+%%%%%%%%%%%%%%%%%%% HEADER OF CV %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+% personal data
+\name{Ryland}{Sepic}
+%\address{526 Park Ln}{Petaluma, CA 94954}{}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[mobile]{(707) 364-3163}                   % optional, remove / comment the line if not wanted
+\email{rmsepic@ucdavis.edu}                               % optional, remove / comment the line if not wanted%
+%\social[linkedin][www.linkedin.com/in/ryland-sepic]{www.linkedin.com/in/ryland-sepic}
+%\social[github][github.com/rmsepic]{github.com/rmsepic}
+%\social[linkedin][linkedin.com/in/ryland-sepic/]{linkedin.com/in/ryland-sepic/}
+\extrainfo{~~~~\faGithub \href{https://github.com/rmsepic}{ github.com/rmsepic} ~~\faLinkedinSquare \href{https://www.linkedin.com/in/ryland-sepic/}{ linkedin.com/in/ryland-sepic/}}
+
+%\homepage{www.linkedin.com/in/ryland-sepic}                         % optional, remove / comment the line if not wanted
+%\homepage{https://github.com/rmsepic }
+
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+
+\usepackage{xpatch}
+\xpatchcmd{\makehead}{%
+\\\null}{%
+\\[-2ex]\null}{}{}
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%
+\vspace{-25mm}
+
+\makecvtitle
+
+\vspace{-11mm}
+
+%Recent graduate with experience in software development, cybersecurity, project based work, teamwork, and communication. Seeking opportunities in software engineering and cybersecurity.
+
+\vspace{-4mm}
+\input{files/education}
+\vspace{-7mm}
+\input{files/relevant_experience}
+\vspace{-6mm}
+\input{files/projects}
+\vspace{-5mm}
+\input{files/experience}
+\vspace{-6mm}
+\input{files/skills}
+\vspace{-4mm}
+\input{files/honors}
+\vspace{-5mm}
+\end{document}
+
+
+%% end of file `template.tex'.
