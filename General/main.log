@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  18 OCT 2021 13:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  18 OCT 2021 14:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -928,51 +928,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--54
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <14.4> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10.95> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 9.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 9.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 15.
 
-Overfull \hbox (6.59167pt too wide) in paragraph at lines 9--9
+Overfull \hbox (6.59167pt too wide) in paragraph at lines 15--15
 [] |[]\U/fontawesometwo/m/n/6 +[] [] 
  []
 
 
-Overfull \hbox (6.59167pt too wide) in paragraph at lines 9--9
+Overfull \hbox (6.59167pt too wide) in paragraph at lines 15--15
 [] |[]\U/fontawesometwo/m/n/6 +[] [] 
  []
 
 
-Overfull \hbox (6.59167pt too wide) in paragraph at lines 9--9
+Overfull \hbox (6.59167pt too wide) in paragraph at lines 15--15
 [] |[]\U/fontawesometwo/m/n/6 +[] [] 
  []
 
 
-Overfull \hbox (6.59167pt too wide) in paragraph at lines 21--21
+Overfull \hbox (6.59167pt too wide) in paragraph at lines 27--27
 [] |[]\U/fontawesometwo/m/n/6 +[] [] 
  []
 
 
-Overfull \hbox (6.59167pt too wide) in paragraph at lines 21--21
+Overfull \hbox (6.59167pt too wide) in paragraph at lines 27--27
 [] |[]\U/fontawesometwo/m/n/6 +[] [] 
  []
 
 
-Overfull \hbox (6.59167pt too wide) in paragraph at lines 29--29
+Overfull \hbox (6.59167pt too wide) in paragraph at lines 35--35
 [] |[]\U/fontawesometwo/m/n/6 +[] [] 
  []
 
 
-Overfull \hbox (6.59167pt too wide) in paragraph at lines 29--29
-[] |[]\U/fontawesometwo/m/n/6 +[] [] 
- []
-
-
-Overfull \hbox (6.59167pt too wide) in paragraph at lines 40--40
-[] |[]\U/fontawesometwo/m/n/6 +[] [] 
- []
-
-
-Overfull \hbox (6.59167pt too wide) in paragraph at lines 40--40
+Overfull \hbox (6.59167pt too wide) in paragraph at lines 35--35
 [] |[]\U/fontawesometwo/m/n/6 +[] [] 
  []
 
@@ -987,22 +977,32 @@ Overfull \hbox (6.59167pt too wide) in paragraph at lines 46--46
  []
 
 
-Overfull \hbox (6.59167pt too wide) in paragraph at lines 55--55
+Overfull \hbox (6.59167pt too wide) in paragraph at lines 52--52
 [] |[]\U/fontawesometwo/m/n/6 +[] [] 
  []
 
 
-Overfull \hbox (6.59167pt too wide) in paragraph at lines 55--55
+Overfull \hbox (6.59167pt too wide) in paragraph at lines 52--52
 [] |[]\U/fontawesometwo/m/n/6 +[] [] 
  []
 
 
-Overfull \hbox (6.59167pt too wide) in paragraph at lines 60--60
+Overfull \hbox (6.59167pt too wide) in paragraph at lines 61--61
 [] |[]\U/fontawesometwo/m/n/6 +[] [] 
  []
 
 
-Overfull \hbox (6.59167pt too wide) in paragraph at lines 60--60
+Overfull \hbox (6.59167pt too wide) in paragraph at lines 61--61
+[] |[]\U/fontawesometwo/m/n/6 +[] [] 
+ []
+
+
+Overfull \hbox (6.59167pt too wide) in paragraph at lines 66--66
+[] |[]\U/fontawesometwo/m/n/6 +[] [] 
+ []
+
+
+Overfull \hbox (6.59167pt too wide) in paragraph at lines 66--66
 [] |[]\U/fontawesometwo/m/n/6 +[] [] 
  []
 
@@ -1014,47 +1014,37 @@ Overfull \hbox (6.59167pt too wide) in paragraph at lines 9--9
 [] |[]\U/fontawesometwo/m/n/6 +[] [] 
  []
 
-) (./files/projects.tex) (./files/skills.tex) (./files/honors.tex [1
+) (./files/projects.tex) (./files/skills.tex) (./files/honors.tex)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
+ [1
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 74.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: ADCDAF146E8418ADC9662A05AD7E527D;577
-(rerunfilecheck)             After:  033430F71FDA31B9B54BF9562C17D18E;464.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 033430F71FDA31B9B54BF9562C17D18E;464.
  ) 
 Here is how much of TeX's memory you used:
- 23867 strings out of 492616
- 400756 string characters out of 6129482
+ 23872 strings out of 492616
+ 400822 string characters out of 6129482
  481648 words of memory out of 5000000
- 27529 multiletter control sequences out of 15000+600000
- 583611 words of font info for 66 fonts, out of 8000000 for 9000
+ 27528 multiletter control sequences out of 15000+600000
+ 584015 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,11n,65p,1215b,456s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.6} has been referenced but does not exis
-t, replaced by a fixed one
-
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/te
-xlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/loca
-l/texlive/2019/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/
-local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texl
-ive/2019/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2019/te
-xmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2019/texmf-dist
-/fonts/type1/public/lm/lmsso10.pfb>
-Output written on main.pdf (2 pages, 123060 bytes).
+ 51i,11n,65p,1215b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2019/
+texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2019/texmf-di
+st/fonts/type1/public/lm/lmsso10.pfb>
+Output written on main.pdf (1 page, 122231 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 13873 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 65 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 13865 words of extra memory for PDF output out of 14400 (max. 10000000)
 
